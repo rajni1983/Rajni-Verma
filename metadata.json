@@ -1,0 +1,6 @@
+{
+  "name": "Linked List Simulator",
+  "description": "An interactive visual laboratory for Singly, Doubly, and Circular Linked Lists, complete with step-by-step pseudo-code execution, operations, and interactive memory mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
